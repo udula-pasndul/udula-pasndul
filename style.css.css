@@ -1,0 +1,10 @@
+body {
+    background: url(paradise.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-clip: content-box;
+    font-size: medium;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
