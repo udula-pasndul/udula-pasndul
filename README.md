@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://crucial-lyceum-410005.web.app/about">
-    <img src="https://img.shields.io/badge/🎨_LIVE_DEMO-FF007F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=FF007F">
+    <img src="https://img.shields.io/badge/🎨_Udula-FF007F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=FF007F">
   </a>
   <a href="https://crucial-lyceum-410005.web.app/projects">
     <img src="https://img.shields.io/badge/📂_PORTFOLIO-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=4ECDC4">
