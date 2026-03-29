@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**udula-pasndul/udula-pasndul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Simple clean link -->
+<a href="http://localhost:5173/about">
+  <strong>📁 View My Portfolio →</strong>
+</a>
 
-Here are some ideas to get you started:
+<!-- Or a button style -->
+<a href="http://localhost:5173/about" target="_blank">
+  <img src="https://img.shields.io/badge/🌐-VISIT_PORTFOLIO-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Or with a nice badge -->
+<a href="http://localhost:5173/about">
+  <img src="https://img.shields.io/badge/Portfolio-udula__pasndul-ff69b4?style=flat-square&logo=githubpages" alt="Portfolio">
+</a>
