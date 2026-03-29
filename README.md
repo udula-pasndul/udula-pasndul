@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/📂_PORTFOLIO-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=4ECDC4">
   </a>
   <a href="https://crucial-lyceum-410005.web.app/contact">
-    <img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=25D366">
+    <img src="https://img.shields.io/badge/💬_contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=25D366">
   </a>
 </p>
 
